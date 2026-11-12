@@ -1,0 +1,6 @@
+# Everything is open to crawlers. Pages that should not be listed (error, offline, the Atrium app frame) carry a
+# noindex tag, which Google can only read if it is allowed to fetch them.
+User-agent: *
+Allow: /
+
+Sitemap: https://thakurg.com/sitemap.xml
