@@ -1,0 +1,1 @@
+function o(i){if(typeof window>`u`)return null;let n=window.Capacitor;return n?.isNativePlatform?.()?n.Plugins?.[i]??null:null}function t(){return typeof window<`u`&&!!window.Capacitor?.isNativePlatform?.()}export{t as n,o as t};
