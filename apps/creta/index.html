@@ -28,7 +28,7 @@
       (function () {
         var p = location.pathname;
         var a = /^\/apps\/([a-z]+)(\/|\/index\.html)?$/.exec(p);
-        var homes = { speedtest: '/', creta: '/creta', nexon: '/nexon', youtube: '/youtube', khata: '/khata/app', tasks: '/tasks/app' };
+        var homes = { speedtest: '/', creta: '/creta', nexon: '/nexon', youtube: '/youtube', khata: '/khata/app', tasks: '/tasks/app', tracker: '/tracker/app' };
         if (a && homes[a[1]]) {
           if (!/^#\//.test(location.hash)) location.replace((a[2] === '/index.html' ? p : '/apps/' + a[1] + '/') + location.search + '#' + homes[a[1]]);
           var m = a[1] !== 'speedtest' && document.querySelector('link[rel=manifest]');
@@ -70,5 +70,5 @@
     <noscript>
       <p style="padding: 24px; font-family: sans-serif">This site needs JavaScript to run the speed test. Please turn it on and reload the page.</p>
     </noscript>
-  <script src="main-ECENMQOS.js" type="module"></script><script>document.querySelectorAll('link[data-beasties-media]').forEach(function(l){l.media=l.getAttribute('data-beasties-media');l.removeAttribute('data-beasties-media')})</script></body>
+  <script src="main-Q3EZ6JNQ.js" type="module"></script><script>document.querySelectorAll('link[data-beasties-media]').forEach(function(l){l.media=l.getAttribute('data-beasties-media');l.removeAttribute('data-beasties-media')})</script></body>
 </html>
