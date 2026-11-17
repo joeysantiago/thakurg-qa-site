@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1794930670937,
+  "timestamp": 1794931254707,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -276,7 +276,7 @@
     "/icons/youtube-apple-touch-icon.png": "63525093bc64c58a322e02e87d853735a390fe74",
     "/icons/youtube-maskable-512.png": "e5d9413ed2f51a9d854f22f8f125fd6c7edd5046",
     "/index.csr.html": "917936f4f7fe7b6866c1c7ebd3ceb8cc54caade5",
-    "/khata.css": "f59ad096098d24129f7268d37d615d45e37f73d0",
+    "/khata.css": "5942abe7b44ef73bbecc58bcbb30bc32c7aa974c",
     "/main-6DPSJG36.js": "66d19e794480e4d231581311d6c901499cab4c7c",
     "/manifest.webmanifest": "95860983fa58ca2686e1044c46fb0fe5c95c8325",
     "/media/fraunces-latin-ext-wght-italic-QBYOS5IF.woff2": "2e1e39ab40b48abb07cb9396a49d8acd55dbb3d2",
