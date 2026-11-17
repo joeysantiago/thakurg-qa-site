@@ -1,0 +1,1 @@
+import{Pn as ng}from"./chunk-BTbn93Ms.js";import{l as y}from"./chunk-T9E_cGX8.js";var n=class r{transform(e){return y(e)}static ɵfac=function(a){return new(a||r)};static ɵpipe=ng({name:`kDate`,type:r,pure:!0})};export{n as t};

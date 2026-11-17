@@ -1,1 +1,0 @@
-import{R as Jh}from"./chunk-B0wgCHBA.js";import{l as y}from"./chunk-fguxD4UZ.js";var n=class r{transform(e){return y(e)}static ɵfac=function(a){return new(a||r)};static ɵpipe=Jh({name:`kDate`,type:r,pure:!0})};export{n as t};

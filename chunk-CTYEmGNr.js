@@ -1,0 +1,1 @@
+import{Pn as ng}from"./chunk-BTbn93Ms.js";import{a as f}from"./chunk-T9E_cGX8.js";var i=class r{transform(e,n,o){return n&&e!==null&&e!==void 0?f(e,n,o):``}static ɵfac=function(n){return new(n||r)};static ɵpipe=ng({name:`kMoney`,type:r,pure:!0})};export{i as t};
